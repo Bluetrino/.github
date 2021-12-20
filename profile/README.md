@@ -5,7 +5,11 @@
 </p>
 
 
-## Hi there 👋
+## Hi there 👋, Welcome to Bluetrino
+
+### What we are about
+
+We are a fintech Startup looking to change the world!
 
 <!--
 
