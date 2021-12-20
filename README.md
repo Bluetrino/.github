@@ -4,4 +4,8 @@
   </a>
 </p>
 
-# Bluetrino
+# Bluetrino Profile Repository
+
+## Introduction
+
+This repo contains the profile readmes for The Bluetrino Organization
